@@ -1017,7 +1017,6 @@ export default {
   },
   mounted() {
     this.scroll=new BScroll(document.querySelector(".wrapper"),{
-
     })
   }
 }
